@@ -1,5 +1,6 @@
 ## Hola, mi nombre es Leodán Luis 👋
 ![https://github.com/llnovoa](./Banner.png)
+Soy graduado de la Universidad de las Ciencias Informáticas desde el 2016.
 
 <!--
 **llnovoa/llnovoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
