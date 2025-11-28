@@ -1,5 +1,5 @@
 ## Hola, mi nombre es Leodán Luis 👋
-![https://github.com/llnovoa](./llnovoa_github_Banner.png)
+![https://github.com/llnovoa](./Banner.png)
 
 <!--
 **llnovoa/llnovoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
